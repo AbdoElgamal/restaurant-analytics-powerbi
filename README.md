@@ -93,7 +93,7 @@ Operational insights including peak hours, weekend vs weekday behavior, monthly 
 This report uses **DirectQuery** on Databricks Delta Lake.
 
 **To connect:**
-1. Open `Restaurant_Analytics.pbix` in Power BI Desktop
+1. Open `Restaurant_Analysis_Dashboard.pbix` in Power BI Desktop
 2. Go to **Home → Transform Data → Data Source Settings**
 3. Select the Databricks source → **Edit Permissions**
 4. Enter your **Server Hostname** and **HTTP Path** from Databricks
